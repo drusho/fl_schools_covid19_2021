@@ -16,7 +16,7 @@
 
 [Tableau Dashboard: Florida Schools Covid-19 Cases](https://public.tableau.com/app/profile/drusho/viz/FloridaSchools2020-2021Covid-19/Dashboard1)
 
-  [<img src="https://raw.githubusercontent.com/drusho/fl_schools_covid19_2021/main/assets/tableau_dashboard_preview.png" height="100"/>](https://public.tableau.com/app/profile/drusho/viz/FloridaSchools2020-2021Covid-19/Dashboard1)
+  [<img src="https://raw.githubusercontent.com/drusho/fl_schools_covid19_2021/main/assets/tableau_dashboard_preview.png" height="200"/>](https://public.tableau.com/app/profile/drusho/viz/FloridaSchools2020-2021Covid-19/Dashboard1)
 
 <br>
 <br>
