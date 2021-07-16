@@ -1,5 +1,7 @@
 # __Florida Schools' COVID-19 Cases for 2021__
-### _Cleaning Data for Tableau_
+#### _Cleaning Data for Tableau_
+
+<br>
 
 <img src="https://raw.githubusercontent.com/drusho/fl_schools_covid19_2021/main/assets/header_classroom.png">
 
