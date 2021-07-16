@@ -10,7 +10,7 @@
 ## Links
 ---
 
-[Blog Post: "Florida Schools Covid-19 Cases"](https://drusho.github.io/pandas/2021/07/14/_07_09_FL_Schools_Covid19_2021.html)
+[Blog Post: "Florida Schools Covid-19 Cases"](https://drusho.github.io/pandas/2021/07/09/fl-schools-covid19-2021.html)
 
 [Google Colab Notebook](https://colab.research.google.com/drive/1FaF24Ln6GvCa8U70Gs9QQaYnCBnYDM-G?usp=sharing)
 
