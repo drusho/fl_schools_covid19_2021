@@ -11,7 +11,6 @@
 
 
 ## Project Links
----
 
 [Blog Post: "Florida Schools Covid-19 Cases"](https://drusho.github.io/pandas/2021/07/09/fl-schools-covid19-2021.html)
 
@@ -26,7 +25,6 @@
 
 
 ## About the Data
----
 
 <img src="https://raw.githubusercontent.com/drusho/fl_schools_covid19_2021/main/assets/pdf_report_preview.png" height="100"/>
 
