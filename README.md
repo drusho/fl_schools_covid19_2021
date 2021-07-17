@@ -1,5 +1,5 @@
 # __Florida Schools' COVID-19 Cases for 2021__
-#### _Cleaning Data for Tableau_
+#### Cleaning Data for Tableau
 
 <br>
 
@@ -10,7 +10,7 @@
 <br>
 
 
-## Links
+## Project Links
 ---
 
 [Blog Post: "Florida Schools Covid-19 Cases"](https://drusho.github.io/pandas/2021/07/09/fl-schools-covid19-2021.html)
@@ -34,4 +34,9 @@ The [Data](http://ww11.doh.state.fl.us/comm/_partners/covid19_report_archive/sch
 
 Also, the version of Tableau that is being used is Tableau Public.  This means that the data that is export will need to be in excel format.
 
+<br>
+<br> 
 
+## Social Links
+
+[<img src="https://img.shields.io/badge/Github_Blog-%23ffa64d.svg?&style=for-the-badge&logo=&logoColor=" />](https://drusho.github.io) [<img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" />](https://github.com/drusho)  [<img src ="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/drusho)  [<img src="https://img.shields.io/badge/tableau-%23ff4d4d.svg?&style=for-the-badge&logo=tableau&logoColor=white">](https://public.tableau.com/app/profile/drusho) [<img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/davidrusho)
